@@ -1,0 +1,35 @@
+
+.cart {
+  background-color: #ffe0b3;
+  height: 100vh;
+  padding: 1rem;
+}
+
+.cart h1 {
+  margin: 1.5rem 0 3rem 0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.cart p {
+  margin: 1rem 0;
+}
+
+.btn-cart-container {
+  margin-top: 3rem;
+}
+.btn-cart {
+  width: 90%;
+  display: block;
+  margin: 1rem auto;
+  color: white;
+}
+
+.btn.btn-clear-cart {
+  background-color: #FF3030;
+  border-radius: 0;
+}
+.btn.btn-review-order {
+  background-color: #FF9900;
+  border-radius: 0;
+}
